@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![Screenshots](./screenshot.png)
+![Screenshots](./screenshot.jpg)
 
 
 
